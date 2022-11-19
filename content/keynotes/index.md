@@ -1,3 +1,0 @@
----
-title: "Featured Keynote Speakers"
----
