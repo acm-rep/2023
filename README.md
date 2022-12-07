@@ -16,8 +16,9 @@ Everything that is pushed or merged with the `main` branch will automatically tr
 
 **For larger edits** there are two possibilities: 
 1. **Using a local git repository (recommended):** 
-    - clone the repository, 
-    - [install hugo](https://wowchemy.com/docs/getting-started/install-hugo-extended/#prerequisites) (skip "Download a Template"),
-    - perform edits, and [view your site](https://wowchemy.com/docs/getting-started/install-hugo-extended/#view-your-site) locally (the website gets rebuild whenever you save a file).  
-    I highly recommend using Visual Studio Code for editing and common git commands. It does a great job showing all files in the repository and their git status. Make sure to create a repository in a _local_ directory that is not backed by Google Drive, iCloud, or any other file sharing service. Bad things tend to happen if you do.
+    - Clone the repository, 
+    - [Install hugo](https://wowchemy.com/docs/getting-started/install-hugo-extended/#prerequisites) (skip "Download a Template"),
+    - Perform edits -- I highly recommend using Visual Studio Code for editing and common git commands. It does a great job showing all files in the repository and their git status. Make sure to create a repository in a _local_ directory that is not backed by Google Drive, iCloud, or any other file sharing service. Bad things tend to happen if you do, and 
+    - [View your site](https://wowchemy.com/docs/getting-started/install-hugo-extended/#view-your-site) locally (the website gets rebuild whenever you save a file).  
+    
 2. **Using the github website:** fork the repository, perform the edits there and create a pull request against this repository. Unfortunately, I have not figured out how to get the web page render correctly in a forked repository.
