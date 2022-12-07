@@ -18,7 +18,7 @@ Everything that is pushed or merged with the `main` branch will automatically tr
 1. **Using a local git repository (recommended):** 
     - Clone the repository, 
     - Perform edits -- I highly recommend using Visual Studio Code for editing and common git commands. It does a great job showing all files in the repository and their git status. Make sure to create a repository in a _local_ directory that is not backed by Google Drive, iCloud, or any other file sharing service. Bad things tend to happen if you do, and 
-    - [Install hugo](https://wowchemy.com/docs/getting-started/install-hugo-extended/#prerequisites) (skip "Download a Template") and [view your site](https://wowchemy.com/docs/getting-started/install-hugo-extended/#view-your-site) locally using `hugo server` (the website gets rebuild whenever you save a file). 
+    - [Install hugo](https://wowchemy.com/docs/getting-started/install-hugo-extended/#prerequisites) (skip "Download a Template") and [view your site](https://wowchemy.com/docs/getting-started/install-hugo-extended/#view-your-site) locally using `hugo server` (it quickly rebuilds the local view whenever you save a change). 
     - Create a pull request against the `main` branch of the origin `acm-rep/2023` repository.
     
 2. **Using the github website:** fork the repository, perform the edits there and create a pull request against this repository. Unfortunately, I have not figured out how to get the web page render correctly in a forked repository.
