@@ -26,6 +26,4 @@ advanced:
 
 THE ACM REP international conference aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The first-of-its-kind conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites tutorials related to reproducibility and independent verification. 
 
-For an in-depth list of topics, please see the ACM REP 2023 call for papers.
-
-
+The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). 

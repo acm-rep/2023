@@ -19,4 +19,6 @@ Topics of interest include, but are not limited to:
 - Experiment discoverability for re-use.
 - Approaches for advancing reproducibility.
 
+For an in-depth list of topics, see also the ACM REP 2023 [Call for Papers](/cfp).
+
 
