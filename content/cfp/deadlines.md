@@ -6,7 +6,8 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-Paper submission:  
-Notification of acceptance:  
-Camera-ready copy:  
+Paper submission (Long and Short): February 6, 2023
+Notification of acceptance: May 12, 2023
+Camera-ready copy: June 1, 2023
+Conference: June 27-29, 2023
 
