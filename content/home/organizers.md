@@ -15,7 +15,7 @@ Tanu Malik (DePaul University)
 Jay Lofstead (Sandia National Laboratories)  
 
 ### Tutorial Chair
-Alexandru Uta (DFINITY)
+Alexandru Uta (DFINITY and Leiden University)
 
 ### Local Arrangements
 Carlos Maltzahn  

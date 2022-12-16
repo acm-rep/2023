@@ -6,7 +6,6 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-Paper submission:  
-Notification of acceptance:  
-Camera-ready copy:  
+Tutorial submission: **February 6, 2023** 
+Notification of acceptance: March 17  
 
