@@ -10,4 +10,10 @@ design:
   css_class: null
 ---
 
-{{< table path="../home/pc.csv" header="true" caption="" >}}
+### Program Chairs
+Tanu Malik (DePaul University)  
+Jay Lofstead (Sandia National Laboratories)  
+
+### Program Committee
+
+{{< table path="../home/pc.csv" header="false" caption="" >}}
