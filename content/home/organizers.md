@@ -18,8 +18,8 @@ Jay Lofstead (Sandia National Laboratories)
 Alexandru Uta (DFINITY and Leiden University)
 
 ### Local Arrangements
-Carlos Maltzahn  
-Stephanie Lieggi (UC Santa Cruz)  
+Stephanie Lieggi (UC Santa Cruz)
+Yelena Martynovskaya (UC Santa Cruz)
 
 ### Proceedings
 Philippe Bonnet
