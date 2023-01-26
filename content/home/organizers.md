@@ -15,14 +15,14 @@ Tanu Malik (DePaul University)
 Jay Lofstead (Sandia National Laboratories)  
 
 ### Tutorial Chair
-Alexandru Uta (DFINITY and Leiden University)
+Alexandru Uta (DFINITY and Leiden University)  
 
 ### Local Arrangements
-Stephanie Lieggi (UC Santa Cruz)
-Yelena Martynovskaya (UC Santa Cruz)
+Stephanie Lieggi (UC Santa Cruz)  
+Yelena Martynovskaya (UC Santa Cruz)  
 
 ### Proceedings
-Philippe Bonnet
+Philippe Bonnet  
 
 ### Public Relations
 Carlos Maltzahn  
