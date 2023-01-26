@@ -18,6 +18,7 @@ Jay Lofstead (Sandia National Laboratories)
 Alexandru Uta (DFINITY and Leiden University)  
 
 ### Local Arrangements
+
 Stephanie Lieggi (UC Santa Cruz)  
 Yelena Martynovskaya (UC Santa Cruz)  
 
