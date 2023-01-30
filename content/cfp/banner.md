@@ -29,6 +29,8 @@ advanced:
 
 THE ACM REP international conference aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The first-of-its-kind conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites original research contributions and practical system designs, implementations and evaluations on several topics relating to reproducibility and replicability. The ACM REP program will consist of peer-reviewed articles, invited talks, panels, and posters, and demonstrations. 
 
+{{< cta cta_text="Submit -->" cta_link="https://acm-rep22.hotcrp.com/" cta_new_tab="false" >}}
+
 The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). All accepted papers will be published by ACM - International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library.
 
 **Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [**Important Dates**](#deadlines) | [Program Committee](#pc)

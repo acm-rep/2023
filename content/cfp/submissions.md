@@ -15,3 +15,10 @@ We solicit both full length papers (10 pages) and short papers (4 pages). The fo
 ### Artifact Evaluation Criteria
 
 The conference will also be soliciting code/data artifacts. For submitted papers, these artifacts will be optional supplemental material and solicited based on the PC criteria. The artifacts will be mandatory for accepted full papers with experimental results. The artifacts will be reviewed by an Artifact Evaluation committee, and those that pass will be awarded [Reproducibility Badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) per ACM policy. 
+
+### Submission Site
+
+The conference submission site is https://acm-rep22.hotcrp.com (yes, it is the right link for ACM REP *2023* submissions)
+
+{{< cta cta_text="Submit -->" cta_link="https://acm-rep22.hotcrp.com/" cta_new_tab="false" >}}
+

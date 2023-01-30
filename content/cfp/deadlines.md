@@ -12,4 +12,4 @@ Notification of acceptance:  May 12, 2023
 Camera-ready copy:  June 1, 2023  
 Conference:  June 27-29, 2023  
 
-Conference submission: https://acm-rep22.hotcrp.com/
+{{< cta cta_text="Submit -->" cta_link="https://acm-rep22.hotcrp.com/" cta_new_tab="false" >}}
