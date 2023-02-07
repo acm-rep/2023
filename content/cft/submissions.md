@@ -8,7 +8,7 @@ active: true
 ---
 
 Tutorial proposals should be submitted in PDF format via the HotCRP submission site:
-http://hotcrp.com/…. The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)) .
+[http://hotcrp.com/…](https://acmrep-tutorials23.hotcrp.com). The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)) .
 
 ### Proposal Information
 
