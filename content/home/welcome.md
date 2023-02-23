@@ -9,7 +9,8 @@ weight: 10 # Order that this section will appear.
 title: 2023 ACM Conference on Reproducibility and Replicability
 subtitle: |
   June 27-29, 2023  
-  UC Santa Cruz | Santa Cruz, California | \#acmrep
+  UC Santa Cruz | Santa Cruz, California | \#acmrep  
+  This is a *hybrid event* -- remote participation is welcome.
 active: true
 design:
   columns: '1'

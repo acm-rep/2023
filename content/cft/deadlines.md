@@ -6,6 +6,6 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-Tutorial submission:  ~~February 6, 2023~~ **February 20, 2023**  
-Notification of acceptance: May 12, 2023 
+<span style=color:grey>Tutorial submission:  ~~February 6, 2023~~ February 20, 2023</span>  
+<span style=color:blue;font-weight:bold>Notification of acceptance: May 12, 2023</span>  
 
