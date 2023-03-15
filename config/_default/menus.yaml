@@ -39,7 +39,8 @@ main:
     weight: 30
   - name: Schedule
     parent: program
-    url: https://acmrep23.sched.com
+    #url: https://acmrep23.sched.com
+    url: schedule
     weight: 10
   - name: Featured Keynote Speakers
     parent: program
