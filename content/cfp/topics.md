@@ -7,7 +7,7 @@ subtitle: ""
 active: true
 ---
 
-ACM REP 2023 invites submissions in several categories as described below with focus on computing disciplines within computer science and across scientific computing disciplines of biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference encourages submissions in which experimental results are reproducible in of themselves and, if not, then sufficiently documents the reproducibility experience. 
+ACM REP '23 invites submissions in several categories as described below with focus on computing disciplines within computer science and across scientific computing disciplines of biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference encourages submissions in which experimental results are reproducible in of themselves and, if not, then sufficiently documents the reproducibility experience. 
 
 Topics of interest include, but are not limited to, the following as they relate to various aspects of reproducibility and replicability. 
 
