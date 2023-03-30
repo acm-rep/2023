@@ -17,7 +17,7 @@ main:
     weight: 20
   - name: Register
     parent: participate
-    url: https://acmrep23.sched.com/
+    url: registration
     weight: 30
   - name: Attend
     identifier: attend
