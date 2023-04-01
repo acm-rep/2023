@@ -27,8 +27,6 @@ advanced:
   css_class: 
 ---
 
-{{< cta cta_text="Call for Tutorials" cta_link="cft" cta_new_tab="false" >}}{{< cta cta_text="Call for Papers" cta_link="cfp" cta_new_tab="false" >}}
-
 **Contact**: [acmrep23-info-group@ucsc.edu](mailto:acmrep23-info-group@ucsc.edu)
 
 
