@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true
-active: true
+active: false
 weight: 15
 title: Featured Keynote Speakers
 subtitle: >-

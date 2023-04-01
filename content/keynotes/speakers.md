@@ -8,7 +8,7 @@ subtitle: >-
   Meet the ACM REP '23 Keynote Speakers (more to come).
 content:
   user_groups:
-    - Keynote Speaker
+  #  - Keynote Speaker
 design:
   columns: '2'
   show_social: false

@@ -27,6 +27,8 @@ advanced:
   css_class: 
 ---
 
+{{% cta cta_link="/keynotes" cta_text="Keynote Speakers -->" %}}
+
 **Contact**: [acmrep23-info-group@ucsc.edu](mailto:acmrep23-info-group@ucsc.edu)
 
 
