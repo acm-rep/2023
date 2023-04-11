@@ -27,7 +27,7 @@ Stephanie Lieggi (UC Santa Cruz)
 Yelena Martynovskaya (UC Santa Cruz)  
 
 ### Proceedings
-Philippe Bonnet  
+Johannes Pietrzyk (TU Dresden)
 
 ### Public Relations
 Carlos Maltzahn  
