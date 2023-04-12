@@ -22,9 +22,9 @@ main:
   - name: Attend
     identifier: attend
     weight: 20
-  - name: Accommodations
+  - name: Housing
     parent: attend
-    url: accommodations
+    url: housing
     weight: 5
   - name: Health & Safety
     parent: attend
