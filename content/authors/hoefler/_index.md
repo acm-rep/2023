@@ -38,6 +38,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/thoefler
 
+# Important: use this to enable a list of pictures for all keynote pictures on the keynote speaker page.
 user_groups:
 - Keynote Speaker
 ---
