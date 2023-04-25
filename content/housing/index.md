@@ -37,3 +37,15 @@ Room Rate
 Standard: $399, plus taxes  
 
 To make a reservation, call (831) 426-4330 and mention that you are attending an event at UC Santa Cruz. No cut-off date.
+
+## Hyatt Place
+
+407 Broadway  
+Santa Cruz, CA 95060  
+Distance from base of Campus: 3.7 mi  
+
+Room Rate  
+Standard One King Bed: $239, plus taxes
+
+To make a reservation, use the following link: [Online Reservation](https://www.hyatt.com/en-US/group-booking/SJCZS/G-COMA).  
+Cut-off Date for discounted room rates: **May 15, 2023**.  
