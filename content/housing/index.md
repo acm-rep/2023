@@ -25,7 +25,8 @@ Room Rates
 Single: $172.80 (Mon/Wed) / $179.10 (Thurs), plus taxes  
 Double: $198.90 (Mon/Wed) /  $205.20 (Thurs), plus taxes  
 
-To make a reservation, call +1 (831) 425-5455 and mention the group rate **ACM REP 23**. Cut-off Date for discounted room rates: **June 12, 2023**
+To make a reservation, call +1 (831) 425-5455 and mention the group rate **ACM REP 23**.  
+Cut-off Date for discounted room rates: **June 12, 2023**.  
 
 ## Santa Cruz Dream Inn
 
@@ -45,7 +46,7 @@ Santa Cruz, CA 95060
 Distance from base of Campus: 3.7 mi  
 
 Room Rate  
-Standard One King Bed: $239, plus taxes
+Standard One King Bed: $239, plus taxes  
 
 To make a reservation, use the following link: [Online Reservation](https://www.hyatt.com/en-US/group-booking/SJCZS/G-COMA).  
 Cut-off Date for discounted room rates: **May 15, 2023**.  
