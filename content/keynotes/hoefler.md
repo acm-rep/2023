@@ -1,4 +1,5 @@
 ---
+# Add this for each speaker. The content is in the /content/authors directory, in this case /content/authors/hoefler.md
 widget: about
 headless: true
 active: true

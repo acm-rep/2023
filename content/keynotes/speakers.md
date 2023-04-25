@@ -7,6 +7,8 @@ title: Featured Keynote Speakers
 subtitle: >-
   Meet the ACM REP '23 Keynote Speakers (more to come).
 content:
+# Uncomment "- Keynote Speaker" to list speaker photos with names below the page's title. 
+# Make sure keynote speaker profiles in /content/authors have "- Keynote Speaker" in their "user_groups:" 
   user_groups:
   #  - Keynote Speaker
 design:
