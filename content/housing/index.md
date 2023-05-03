@@ -39,6 +39,16 @@ Standard: $399, plus taxes
 
 To make a reservation, call (831) 426-4330 and mention that you are attending an event at UC Santa Cruz. No cut-off date.
 
+## Hotel Paradox
+
+611 Ocean Street  
+Santa Cruz, CA 95060  
+Distance from base of Campus: 2.3 mi  
+
+Room Rate  
+To check the availability for discounted rates and rooms, use the following link: [Online Reservation](https://www.marriott.com/events/start.mi?id=1663102249630&key=CORP).  
+No Cut-Off Date, check for availability.
+
 ## Hyatt Place
 
 407 Broadway  
@@ -50,3 +60,16 @@ Standard One King Bed: $239, plus taxes
 
 To make a reservation, use the following link: [Online Reservation](https://www.hyatt.com/en-US/group-booking/SJCZS/G-COMA).  
 Cut-off Date for discounted room rates: **May 15, 2023**.  
+
+## Hilton Santa Cruz/Scotts Valley
+
+6001 La Madrona Drive  
+Santa Cruz, CA 95060  
+Distance from base of Campus: 6.2 mi  
+
+Room Rate  
+Single: $199, plus taxes  
+
+To make a reservation, use the following link: [Online Reservation](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=SJCSVHF&groupCode=ACMCB&arrivaldate=2023-06-26&departuredate=2023-06-30&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT).  
+Group Code: ACMCB  
+Cut-off Date for discounted room rates: **May 27, 2023**.  
