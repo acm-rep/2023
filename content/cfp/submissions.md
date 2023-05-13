@@ -6,7 +6,11 @@ title: "Submission Guidelines"
 subtitle: ""
 active: true
 ---
-We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. And not published or under review elsewhere. ACM REP is a single-blind reviewed conference. Therefore, authors must include their names and affiliations on the first page. ACM REP submissions can be either research papers, surveys, vision, and experience papers. Papers will be evaluated according to their significance, originality, technical content, style, clarity, relevance, and likelihood of generating discussion. Authors should note that changes to the author list after the submission deadline are not allowed without permission from the PC Chairs. At least one author of each accepted paper is required to register for, attend, and present the work at the conference.
+We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. And not published or under review elsewhere. ACM REP is a single-blind reviewed conference. Therefore, authors must include their names and affiliations on the first page. ACM REP submissions can be either research papers, surveys, vision, and experience papers. Papers will be evaluated according to their significance, originality, technical content, style, clarity, relevance, and likelihood of generating discussion. Authors should note that changes to the author list after the submission deadline are not allowed without permission from the PC Chairs. At least one author of each accepted paper is required to register for, attend, and present the work at the conference. 
+
+{{% callout note %}}
+Remote attendance and presentations are welcome even though in-person attendance and presentations are highly encouraged.
+{{% /callout %}}
 
 ### Research Papers (Long and Short)
 
