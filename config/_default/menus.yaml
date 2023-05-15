@@ -17,7 +17,7 @@ main:
     weight: 20
   - name: Register
     parent: participate
-    url: registration
+    url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
     weight: 30
   - name: Attend
     identifier: attend
@@ -41,10 +41,9 @@ main:
   - name: Program
     identifier: program
     weight: 30
-  - name: Schedule
+  - name: Agenda
     parent: program
-    #url: https://acmrep23.sched.com
-    url: schedule
+    url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce
     weight: 10
   - name: Featured Keynote Speakers
     parent: program

@@ -28,6 +28,7 @@ advanced:
 ---
 
 {{% cta cta_link="/keynotes" cta_text="Keynote Speakers -->" %}}
+{{% cta cta_link="https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary" cta_text="Register -->" %}}
 
 **Contact**: [acmrep23-info-group@ucsc.edu](mailto:acmrep23-info-group@ucsc.edu)
 
