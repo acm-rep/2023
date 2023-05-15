@@ -17,7 +17,7 @@ main:
     weight: 20
   - name: Register
     parent: participate
-    url: registration
+    url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
     weight: 30
   - name: Attend
     identifier: attend
