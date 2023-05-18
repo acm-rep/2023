@@ -22,6 +22,10 @@ main:
   - name: Attend
     identifier: attend
     weight: 20
+  - name: Travel & Venue
+    parent: attend
+    url: venue
+    weight: 3
   - name: Housing
     parent: attend
     url: housing
