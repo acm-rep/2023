@@ -15,7 +15,7 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-canonifyURLs: true
+#canonifyURLs: true
 
 ############################
 ## MODULES
