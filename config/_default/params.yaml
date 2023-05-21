@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Conference
+    site_type: Organization
     local_business_type: ''
     org_name: 'ACM'
-    description: 'ACM Conference for Reproducibility and Independent Verification'
-    twitter: ''
+    description: 'ACM Conference for Reproducibility and Replicability'
+    twitter: 'acmrep'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
