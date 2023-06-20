@@ -16,6 +16,9 @@ sections:
 
         ## Platinum Sponsors
         ## Gold Sponsors
+
+        [{{< figure src="IBM-logo.jpeg" alt="IBM Research" width="50%" >}}](https://research.ibm.com)
+
         ## Silver Sponsors
     design:
       columns: '2'
