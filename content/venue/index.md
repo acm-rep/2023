@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: markdown
+    id: getting-there
     content:
       title: "Directions: Getting There"
       text: |-
@@ -19,12 +20,15 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: getting-around
     content:
       title: Getting Around
       subtitle: ''
       text: |-
         ![UCSC directions](ucsc-navigation.png)
-        Traffic is also heavy in Santa Cruz itself. Your hotel concierge should be able to suggests good ways to get around town without having to drive and park.
+        Traffic is also heavy in Santa Cruz itself. Your hotel concierge should be able to suggests good ways to get around town without having to drive and park. 
+
+        {{% cta cta_link="#conference-parking" cta_text="Conference Parking Information" %}}
         
         ## Carpooling
 
@@ -48,15 +52,22 @@ sections:
 
         ## Conference Parking
 
-        Daily parking permits can to be purchased at the Main Entrance Kiosk (map coordinates M-7, see [campus parking map](https://taps.ucsc.edu/pdf/parking-map.pdf)) or the TAPS Sales Office (L-7). For Days 1 and 2, there is a small number of parking spaces available across the Hay Barn at parking lots 115 and 116 (L-8). Lot 116 also has a few parking spaces that can be paid for via the [ParkMobile app](https://parkmobile.io/) (also useful for parking in downtown Santa Cruz).  For Day 3, Google Maps driving directions are available for “UCSC Core West Structure” (Lot 112, map coordinates C-4). 
+        Parking permits are required for parking near the conference venue. On **Tuesday, June 27, 2023 (Day 1), 8:30-10:30am [TAPS](https://taps.ucsc.edu) attendants will be available on parking lot 116 (map coordinates L-8, see [campus parking map](https://taps.ucsc.edu/pdf/parking-map.pdf)) to sell 1-, 2-, and 3-day parking permits for $10/day**. 
+
+        ![Day 1-2 Parking Map](parking-map.png)
+        
+        After Day 1, 10:30am, daily parking permits can to be purchased at the Main Entrance Kiosk (M-7) or the TAPS Sales Office (L-7). Lot 116 also has a few parking spaces that can be paid for via the [ParkMobile app](https://parkmobile.io/) (also useful for parking in downtown Santa Cruz).  For Day 3, Google Maps driving directions are available for “UCSC Core West Structure” (Lot 112, map coordinates C-4). 
+
+        ![Day 3 Parking Map](parking-map-2.png)
 
         {{% callout warning %}}
-        Parking permits are required for parking (you *will* get a ticket if you do not display one)
+        Parking permits are required for parking (you *will* get a ticket if you do not display one.)
         {{% /callout %}}
     design:
       columns: '2'
 
   - block: markdown
+    id: venue
     content:
       title: "Venue: Cowell Hay Barn"
       text: |-
@@ -72,6 +83,7 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: ucsc
     content:
       title: UC Santa Cruz
       text: |-
