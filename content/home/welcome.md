@@ -28,8 +28,6 @@ advanced:
 ---
 {{% cta cta_link="https://dl.acm.org/doi/proceedings/10.1145/3589806" cta_text="Proceedings" %}}
 {{% cta cta_link="https://docs.google.com/document/d/1FIeUcsjyf3JVr64sj8gWoDJrNc6C0467Q0VPKKj2Ux4/edit?usp=sharing" cta_text="Agenda" %}}
-{{% cta cta_link="venue/#conference-parking" cta_text="Conference Parking Information" %}}
-
 **Contact**: [acmrep23-info-group@ucsc.edu](mailto:acmrep23-info-group@ucsc.edu)
 
 
