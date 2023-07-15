@@ -61,7 +61,7 @@ main:
     parent: program
     url: https://dl.acm.org/doi/proceedings/10.1145/3589806
     weight: 30
-  - name: Summary
+  - name: Conference Summary
     parent: program
     url: https://acm-rep.github.io/post/20230714-acmrep23/
   #- name: Contact Us
